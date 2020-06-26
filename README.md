@@ -1,5 +1,5 @@
 
-# readme-gen
+# ReadmeGenerator
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jake10693/readme-gen)
 
 ## Description
